@@ -18,7 +18,8 @@ serverinventory:
     Technical_Approver: '.Bart Hachey'
     Director_Approver: ''
     Sr_Director_Approver: ''
-    Requested_By: 'Abraham Lincoln'
+    
+  - Requested_By: 'Abraham Lincoln'
     Environment: 'DEV'
     Category: 'Software'
     CI: 'CH3TR0198477'
@@ -36,7 +37,8 @@ serverinventory:
     Technical_Approver: '.Bart Hachey'
     Director_Approver: ''
     Sr_Director_Approver: ''
-    Requested_By: 'Abraham Lincoln'
+    
+  - Requested_By: 'Abraham Lincoln'
     Environment: 'DEV'
     Category: 'Software'
     CI: 'CH3TR019845'
