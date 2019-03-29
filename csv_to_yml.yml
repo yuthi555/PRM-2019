@@ -9,5 +9,5 @@
     - name: Parse CSV To YAML
       template:
         src: "./iterate_csv.j2"
-        dest: "./x.yml"
+        dest: "./Server_Inventory_hosts.yml"
   run_once: true
